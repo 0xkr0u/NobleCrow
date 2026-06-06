@@ -12,3 +12,6 @@ i am still working on it but i hope this will do the job until the next update ;
 
 ## Dream tool schematics
 <img width="394" height="451" alt="objective_1 0" src="https://github.com/user-attachments/assets/dd97c427-fcc8-44e2-ba22-ab23e47fdfd9" />
+
+There will be issues in the writing files since it will try to duplicate the ~/.local/share inside the NobleCrow folder where all your storage will be.
+It may be used later for (bug2feature) purposes.
